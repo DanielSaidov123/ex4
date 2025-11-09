@@ -1,8 +1,8 @@
-# with open('my_file.txt','w')as f:
-#     f.write("my name daniel saidov")
+with open('my_file.txt','w')as f:
+    f.write("my name daniel saidov")
 
-# with open('my_file.txt','r')as f:
-#     temp=f.read()
+with open('my_file.txt','r')as f:
+    temp=f.read()
 
 def io():
     text=input("enter text")
